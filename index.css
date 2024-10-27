@@ -2,11 +2,12 @@
   margin: 0;
   padding: 0;
   background-color: #F5F4F0;
-  font-family: "Open Sans", sans-serif;
+
 }
 
 .title {
   padding: 88px 80px 40px ;
+  font-family: "Open Sans", sans-serif;
 }
 
 .title p {
@@ -24,6 +25,7 @@
 
 .image-description {
   padding: 0 80px 40px;
+  font-family: "Open Sans", sans-serif;
  }
 
 .image-description img {
@@ -49,6 +51,7 @@
 }
 .title-list {
   padding: 0 80px 64px;
+  font-family: "Open Sans", sans-serif;
 }
 .title-list h2 {
   font-size: 16px;
@@ -70,6 +73,7 @@
 
 .list-one {
 padding: 0 80px 48px;
+font-family: "Open Sans", sans-serif;
 }
 
 .list-one img {
@@ -148,6 +152,7 @@ padding: 0 80px 48px;
 
 .list-two {
   padding: 0 80px 48px;
+  font-family: "Open Sans", sans-serif;
 }
   
 .list-two img {
@@ -187,6 +192,7 @@ padding: 0 80px 48px;
 
 .list-three {
   padding: 0 80px 40px;
+  font-family: "Open Sans", sans-serif;
 }
   
 .list-three img {
@@ -238,6 +244,13 @@ padding: 0 80px 48px;
 }
 .final-description {
   padding: 0 80px 65px;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
   text-align: center;
+}
+footer {
+  font-family: "Alice", serif;
+  padding: 0 80px 48px;
+  text-align: center;
+  font-size: 16px;
 }
