@@ -235,4 +235,9 @@ padding: 0 80px 48px;
   height: 1px;
   background-color: #d9d9d9;
   margin: 0 80px 40px;
-}   
+}
+.final-description {
+  padding: 0 80px 65px;
+  font-size: 16px;
+  text-align: center;
+}
