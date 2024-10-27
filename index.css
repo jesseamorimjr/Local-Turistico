@@ -30,7 +30,7 @@
   width: 100%;
   height: 660px;
   border-radius: 28px;
-  padding-bottom: 24px;
+
   object-fit: cover;
   
 }
@@ -39,6 +39,7 @@
   color: #333333;
   font-style: italic;
   text-align: center;
+  padding-top: 24px;
 }
 
 .divider {
@@ -67,3 +68,41 @@
   text-align: left;
 }
 
+.list-one {
+padding: 0 80px 48px;
+}
+
+.list-one img {
+  width: 100%;
+  height: 350px;
+  border-radius: 28px;
+  object-fit: cover;
+}
+.list-one h1 {
+  padding-left: 4px;
+  padding-top: 20px;
+  padding-bottom: 4px;
+  color: #1B1B1B;
+  font-size: 28px;
+  font-weight: bold;
+}
+.list-one p {
+  font-size: 16px;
+  color: #333333;
+  padding-bottom: 16px;
+}
+.list-one h3 {  font-size: 16px;
+  font-weight: bold;
+  color: #333333;
+  padding-left: ;
+}
+.list-one ul {
+  color: #0C51A7;
+  font-size: 16px;
+  font-weight: bold;
+  padding-left: 22px;
+}
+
+.list-one ul li::marker {
+  color: #333333;
+}
