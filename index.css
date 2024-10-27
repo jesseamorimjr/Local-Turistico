@@ -42,7 +42,7 @@
   padding-top: 24px;
 }
 
-.divider {
+.divider1 {
   height: 1px;
   background-color: #d9d9d9;
   margin: 0 80px 64px;
@@ -184,3 +184,55 @@ padding: 0 80px 48px;
 .list-two ul li::marker {
   color: #333333;
 }
+
+.list-three {
+  padding: 0 80px 40px;
+}
+  
+.list-three img {
+  width: 100%;
+  height: 350px;
+  border-radius: 28px;
+  object-fit: cover;
+}
+.list-three h1 {
+  padding-left: 4px;
+  padding-top: 20px;
+  padding-bottom: 4px;
+  color: #1B1B1B;
+  font-size: 28px;
+  font-weight: bold;
+}
+.list-three p {
+  font-size: 16px;
+  color: #333333;
+  padding-bottom: 16px;
+}
+.list-three h3 {  font-size: 16px;
+  font-weight: bold;
+  color: #333333;
+  padding-left: ;
+}
+.list-three ul {
+  font-size: 16px;
+  font-weight: bold;
+  padding-left: 22px;
+}
+
+.list-three ul li::marker {
+  color: #333333;
+}
+.ul-casais {
+  color: #591B98 ;
+}
+.ul-familias {
+  color: #E5245E;
+}
+.ul-orçamento {
+  color: #E95E10;
+}
+.divider2 {
+  height: 1px;
+  background-color: #d9d9d9;
+  margin: 0 80px 40px;
+}   
