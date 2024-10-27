@@ -17,6 +17,7 @@
 }
 
 .title h1 {
+  color: #1B1B1B;
  font-weight: bold;
  font-size: 36px;
 }
@@ -45,3 +46,24 @@
   background-color: #d9d9d9;
   margin: 0 80px 64px;
 }
+.title-list {
+  padding: 0 80px 64px;
+}
+.title-list h2 {
+  font-size: 16px;
+  font-style: bold;
+  color: #E1624F;
+  padding-bottom: 2px;
+}
+.title-list h1 {
+  color: #1B1B1B;
+  font-weight: bold;
+  font-size: 36px;
+  padding-bottom: 8px;
+}
+.title-list p {
+  font-size: 16px;
+  color: #333333;
+  text-align: left;
+}
+
